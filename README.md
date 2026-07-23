@@ -1,2 +1,2 @@
 # Netflix-Clone
-A responsive Netflix homepage clone built using HTML5 and CSS3.
+A Responsive Netflix homepage clone built using HTML5 and CSS3.
