@@ -4,8 +4,6 @@ A responsive **Netflix Landing Page Clone** built using **HTML5** and **CSS3**.
 
 ## 🚀 Live Preview
 
-> Add your GitHub Pages link here after deployment.
-
 ## 📸 Project Screenshots
 
 ### 1. Hero Section
