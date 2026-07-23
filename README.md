@@ -6,7 +6,28 @@ A responsive **Netflix Landing Page Clone** built using **HTML5** and **CSS3**.
 
 > Add your GitHub Pages link here after deployment.
 
-## 📸 Screenshot
+## 📸 Project Screenshots
+
+### 1. Hero Section
+![Hero Section](assets/screenshots/image%20(1).png)
+
+### 2. TV Section
+![TV Section](assets/screenshots/image%20(2).png)
+
+### 3. Download Section
+![Download Section](assets/screenshots/image%20(3).png)
+
+### 4. Watch Everywhere
+![Watch Everywhere](assets/screenshots/image%20(4).png)
+
+### 5. Kids Profile Section
+![Kids Profile](assets/screenshots/image%20(5).png)
+
+### 6. FAQ Section
+![FAQ Section](assets/screenshots/image%20(6).png)
+
+### 7. Footer
+![Footer](assets/screenshots/image%20(7).png)
 
 > Add a screenshot of the project here.
 
